@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/root/KeeCache/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

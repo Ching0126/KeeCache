@@ -1,3 +1,0 @@
-/root/KeeCache/build/CMakeFiles/KeeCache.dir
-/root/KeeCache/build/CMakeFiles/edit_cache.dir
-/root/KeeCache/build/CMakeFiles/rebuild_cache.dir
