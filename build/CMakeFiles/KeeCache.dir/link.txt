@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/KeeCache.dir/link.d CMakeFiles/KeeCache.dir/main.cpp.o -o KeeCache
